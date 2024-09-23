@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480833776649",
+    "project_id": "firstappfirebase-c0fda",
+    "storage_bucket": "firstappfirebase-c0fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480833776649:android:dfe9764a4466c3421cdcd8",
+        "android_client_info": {
+          "package_name": "com.example.firstappfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeCew37lKAEH7_6005NvgOFBazLIpfdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480833776649:android:3a95c22a69bcab581cdcd8",
+        "android_client_info": {
+          "package_name": "com.example.firstappfirestore.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeCew37lKAEH7_6005NvgOFBazLIpfdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
