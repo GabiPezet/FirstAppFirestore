@@ -30,6 +30,7 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
+                    //throw RuntimeException("PUTO EL QUE LEE")
                     mainViewModel.onLoginSelected()
                 }
             }
