@@ -10,6 +10,7 @@ plugins {
     
     alias(libs.plugins.googleServices)
     alias(libs.plugins.crashlytics)
+
 }
 
 android {
@@ -86,6 +87,7 @@ dependencies {
     implementation(platform(libs.firebase.bom))
     implementation(libs.firebase.crashlytics)
     implementation(libs.firebase.analytics)
+    implementation(libs.firebase.auth)
 
 }
 
